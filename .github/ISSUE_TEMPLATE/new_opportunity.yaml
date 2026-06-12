@@ -1,0 +1,145 @@
+name: New Opportunity
+description: Contribute an opportunity to the From Campus to Career list
+title: "New Opportunity"
+labels: ["new_opportunity"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## New Opportunity Contribution
+        Thanks for taking the time to contribute!
+        > Make sure you've read `CONTRIBUTING.md` before submitting your opportunity.
+        > This repository tracks opportunities that help college students go **from campus to career** —
+        > internships, fellowships, programs, research, scholarships, and early-career pipelines.
+
+  - type: input
+    id: url
+    attributes:
+      label: Link to Opportunity Posting
+      placeholder: ex. careers.google.com/students/step
+    validations:
+      required: true
+
+  - type: input
+    id: company_name
+    attributes:
+      label: Company/Organization Name
+      placeholder: ex. Google
+    validations:
+      required: true
+
+  - type: input
+    id: title
+    attributes:
+      label: Program/Role Title
+      placeholder: ex. Software Engineering Intern
+    validations:
+      required: true
+
+  - type: dropdown
+    id: type_of_opportunity
+    attributes:
+      label: Type of Opportunity
+      description: What kind of opportunity is this? (Shown in the Type column.)
+      multiple: false
+      options:
+        - "Internship"
+        - "Fellowship"
+        - "Externship"
+        - "Program"
+        - "Research"
+        - "Scholarship"
+        - "Conference"
+        - "Mentorship Program"
+        - "Other"
+    validations:
+      required: true
+
+  - type: input
+    id: field
+    attributes:
+      label: Field/Area (For Research Programs Only)
+      description: |
+        If this is a research program, what field or area is it in?
+        Leave blank for non-research opportunities.
+      placeholder: ex. Computer Science, STEM, Aerospace Engineering
+    validations:
+      required: false
+
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      description: |
+        Where is the opportunity located?
+        Please separate multiple locations with a comma or semicolon.
+        Include Remote if a remote option is available.
+      placeholder: San Francisco, CA; Seattle, WA; Remote
+    validations:
+      required: true
+
+  - type: dropdown
+    id: season
+    attributes:
+      label: What season is this opportunity for?
+      description: Select the season during which this opportunity takes place.
+      multiple: false
+      options:
+        - "Summer"
+        - "Fall"
+        - "Winter"
+        - "Spring"
+        - "Multiple (rolling/year-round)"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: sponsorship
+    attributes:
+      label: Sponsorship/Citizenship Requirements
+      description: |
+        What are the citizenship or sponsorship requirements?
+        If the posting does not specify, select "Not Specified"
+      multiple: false
+      options:
+        - Not Specified
+        - Offers Sponsorship
+        - Does Not Offer Sponsorship
+        - U.S. Citizenship Required
+        - U.S. Work Authorization Required
+    validations:
+      required: true
+
+  - type: dropdown
+    id: active
+    attributes:
+      label: Is this opportunity currently accepting applications?
+      multiple: false
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
+
+  - type: input
+    id: email
+    attributes:
+      label: Email associated with your GitHub account (Optional)
+      description: |
+        If you would like to be credited as the contributor when the GitHub Action
+        commits your contribution, please provide your email. If left blank, the
+        contribution will be attributed to actions@github.com.
+      placeholder: ex. yourname@email.com
+    validations:
+      required: false
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional Notes (Optional)
+      description: |
+        Any extra context about the opportunity that might be helpful.
+        This will not be shown on the repo but may help with approval.
+      placeholder: This program is specifically for students with no prior experience...
+    validations:
+      required: false
