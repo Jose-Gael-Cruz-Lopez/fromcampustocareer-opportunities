@@ -38,6 +38,11 @@ Hi, we're **[Jose](https://www.linkedin.com/in/josegaelcruz) and Jocelyn** — t
 <!-- OPPORTUNITIES_TABLE_START -->
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
+| ✅ **[OPEN]** | Anthropic | Claude Corps Fellow — Deadline: July 17, 2026 (First Cohort) :no_entry_sign: | Year-Long Fellowship (Anthropic x CodePath; Early Career, <2 yrs Exp; $85K; No Visa Sponsorship) | United States | <a href="https://job-boards.greenhouse.io/claudecorps/jobs/4250200009"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 12, 2026 |
+| ✅ **[OPEN]** | Blue Origin | Software Developer Internship – Undergraduate (Spring 2027) | Internship (Undergraduate) | Multiple Locations | <a href="https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027--Software-Developer-Internship---Undergraduate_R66216"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 12, 2026 |
+| ✅ **[OPEN]** | ElevenLabs | ElevenLabs Ambassador Program | Ambassador Program (Community Builder / Content Creator; 18+) | Remote / Global | <a href="https://elevenlabs.io/ambassador"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 12, 2026 |
+| ✅ **[OPEN]** | Intel | AI Software Engineering Intern | Internship | Phoenix, AZ | <a href="https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 12, 2026 |
+| ✅ **[OPEN]** | Kaggle / Google | 5-Day AI Agents Intensive: Vibe Coding Course with Google | Free Online Course (AI Agents; Open to All) | Remote | <a href="https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 12, 2026 |
 <!-- OPPORTUNITIES_TABLE_END -->
 
 > Be the first to contribute — [paste a link](https://github.com/Jose-Gael-Cruz-Lopez/fromcampustocareer-opportunities/issues/new/choose) and the list fills itself in.

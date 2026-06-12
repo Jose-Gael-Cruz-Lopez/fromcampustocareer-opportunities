@@ -1,1 +1,107 @@
-[]
+[
+  {
+    "id": "1bc033f7-ded9-45d3-91f2-a09553b0f32b",
+    "company_name": "ElevenLabs",
+    "title": "ElevenLabs Ambassador Program",
+    "url": "https://elevenlabs.io/ambassador",
+    "locations": [
+      "Remote / Global"
+    ],
+    "season": "Multiple",
+    "category": "Other",
+    "opportunity_type": "Ambassador Program (Community Builder / Content Creator; 18+)",
+    "target_year": [
+      "All Students"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1781304974,
+    "date_updated": 1781304974,
+    "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "3adc01f9-6b5e-4d0a-b32c-a76e69693260",
+    "company_name": "Intel",
+    "title": "AI Software Engineering Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "season": "Multiple",
+    "category": "Internship",
+    "opportunity_type": "Internship",
+    "target_year": [
+      "All Students"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1781304974,
+    "date_updated": 1781304974,
+    "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "0726a596-84dc-4d97-8bb9-ebaa11850d87",
+    "company_name": "Anthropic",
+    "title": "Claude Corps Fellow \u2014 Deadline: July 17, 2026 (First Cohort)",
+    "url": "https://job-boards.greenhouse.io/claudecorps/jobs/4250200009",
+    "locations": [
+      "United States"
+    ],
+    "season": "Multiple",
+    "category": "Fellowship",
+    "opportunity_type": "Year-Long Fellowship (Anthropic x CodePath; Early Career, <2 yrs Exp; $85K; No Visa Sponsorship)",
+    "target_year": [
+      "All Students"
+    ],
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1781304974,
+    "date_updated": 1781304974,
+    "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "13ac62c3-91b4-42f1-b026-4d09d98ec133",
+    "company_name": "Kaggle / Google",
+    "title": "5-Day AI Agents Intensive: Vibe Coding Course with Google",
+    "url": "https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google",
+    "locations": [
+      "Remote"
+    ],
+    "season": "Multiple",
+    "category": "Other",
+    "opportunity_type": "Free Online Course (AI Agents; Open to All)",
+    "target_year": [
+      "All Students"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1781304974,
+    "date_updated": 1781304974,
+    "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "2e52a1e7-5e92-4fc0-864f-410bee67dd40",
+    "company_name": "Blue Origin",
+    "title": "Software Developer Internship \u2013 Undergraduate (Spring 2027)",
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027--Software-Developer-Internship---Undergraduate_R66216",
+    "locations": [
+      "Multiple Locations"
+    ],
+    "season": "Spring",
+    "category": "Internship",
+    "opportunity_type": "Internship (Undergraduate)",
+    "target_year": [
+      "All Students"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1781304974,
+    "date_updated": 1781304974,
+    "source": "Jose-Gael-Cruz-Lopez"
+  }
+]
