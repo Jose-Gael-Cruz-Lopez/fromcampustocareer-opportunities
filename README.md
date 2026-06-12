@@ -16,7 +16,11 @@
 > [!IMPORTANT]
 > **One curated list of opportunities that move you from campus to career** — internships, fellowships, programs, research, scholarships, conferences, and early-career pipelines, all in one place.
 
-Hi, we're **[Jose](https://www.linkedin.com/in/josegaelcruz) and Jocelyn** — the team behind [**From Campus to Career**](https://fromcampuscareer.com/). This is our single, community-driven list of opportunities for college students. If you find something, add it. Together we make the path clearer for everyone who comes after us.
+Hi, we're **[Jose](https://www.linkedin.com/in/josegaelcruz)** and **[Jocelyn](https://www.linkedin.com/in/jocelyn-vazquez/)** — two students behind [**From Campus to Career**](https://fromcampuscareer.com/).
+
+We started this because, early on, we didn't have a map. The internships, fellowships, and programs that could change a career were out there — but they were scattered across a hundred tabs, buried in group chats, and gone by the time we heard about them. Nobody handed us a list, so we kept missing chances we never even knew existed. We don't want that for anyone else.
+
+So we're building the resource we wish we'd had: every opportunity worth knowing about, gathered in one place, free and open to everyone — no gatekeeping, no insider network required. If you find something, add it. Together we make the path clearer for everyone who comes after us.
 
 ---
 
