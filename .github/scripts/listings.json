@@ -103,5 +103,89 @@
     "date_posted": 1781304974,
     "date_updated": 1781304974,
     "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "2b85cd3a-f4b0-4b2f-b5ca-9912b3dc5991",
+    "company_name": "Notion",
+    "title": "Notion Campus Leaders Program",
+    "url": "https://notion.notion.site/Notion-Campus-Leaders-Program-5817b00cbaa244bca9e0e498804cbab4",
+    "locations": [
+      "Remote / Global"
+    ],
+    "season": "Multiple",
+    "category": "Program",
+    "opportunity_type": "Campus Ambassador Program (College Students)",
+    "target_year": [
+      "All Students"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1781327691,
+    "date_updated": 1781327691,
+    "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "6d93396c-4ae5-44ec-aa49-b568b36207e9",
+    "company_name": "Apple",
+    "title": "Software Undergrad Engineering Internships",
+    "url": "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships",
+    "locations": [
+      "Cupertino, CA"
+    ],
+    "season": "Multiple",
+    "category": "Internship",
+    "opportunity_type": "Internship (Undergraduate)",
+    "target_year": [
+      "All Students"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1781327691,
+    "date_updated": 1781327691,
+    "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "9a3dc6ad-53e6-4e09-8bb0-c42807329edf",
+    "company_name": "XPRIZE",
+    "title": "Build with Gemini XPRIZE \u2014 Deadline: Aug 17, 2026",
+    "url": "https://xprize.devpost.com/",
+    "locations": [
+      "Online"
+    ],
+    "season": "Multiple",
+    "category": "Other",
+    "opportunity_type": "Competition / Hackathon ($2M in Prizes; 18+)",
+    "target_year": [
+      "All Students"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1781327691,
+    "date_updated": 1781327691,
+    "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "5317546b-184a-4574-9c2b-4978e6d248e9",
+    "company_name": "Y Combinator",
+    "title": "2027 YC Startup Internship Expo",
+    "url": "https://events.ycombinator.com/2027-summer-internship-expo",
+    "locations": [
+      "Online"
+    ],
+    "season": "Summer",
+    "category": "Other",
+    "opportunity_type": "Internship Expo / Hiring Event (Connect with YC Startups)",
+    "target_year": [
+      "All Students"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1781327795,
+    "date_updated": 1781327795,
+    "source": "Jose-Gael-Cruz-Lopez"
   }
 ]
