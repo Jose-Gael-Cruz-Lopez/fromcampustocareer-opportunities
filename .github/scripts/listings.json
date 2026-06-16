@@ -187,5 +187,89 @@
     "date_posted": 1781327795,
     "date_updated": 1781327795,
     "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "d5f7cbbd-d9df-4a1c-a0c4-6789d036e19f",
+    "company_name": "Resilient Coders",
+    "title": "Full Stack Engineering Fellowship \u2014 Deadline: June 22, 2026 (Fall 2026 Cohort)",
+    "url": "https://apply.resilientcoders.org/tf-fall-2026",
+    "locations": [
+      "Remote (Greater Boston / Greater Philadelphia)"
+    ],
+    "season": "Fall",
+    "category": "Fellowship",
+    "opportunity_type": "Full-Time Coding Bootcamp Fellowship (FREE; Ages 18\u201335; Low-Income Eligibility; Aug\u2013Dec 2026)",
+    "target_year": [
+      "All Students"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1781571254,
+    "date_updated": 1781571254,
+    "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "eb3eb48a-817d-4a3e-a03e-6d15f66a6fdf",
+    "company_name": "University of Chicago (Harris)",
+    "title": "Applied Data Fellowship (ADF)",
+    "url": "https://www.adf.uchicago.edu/apply",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "season": "Multiple",
+    "category": "Fellowship",
+    "opportunity_type": "One-Year Paid Data Fellowship (Rolling / Year-Round; Embedded Placements)",
+    "target_year": [
+      "All Students"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1781571254,
+    "date_updated": 1781571254,
+    "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "037a987f-c787-4190-bc14-5a0059a72540",
+    "company_name": "The Marcy Lab School",
+    "title": "Software Engineering Fellowship",
+    "url": "https://marcylabschool.smapply.io/prog/lst/",
+    "locations": [
+      "Brooklyn, NY"
+    ],
+    "season": "Multiple",
+    "category": "Fellowship",
+    "opportunity_type": "Tuition-Free 1-Year Software Engineering Fellowship (Young Adults)",
+    "target_year": [
+      "All Students"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1781571254,
+    "date_updated": 1781571254,
+    "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "4d85b243-0a6d-41e2-b78f-fbc3cb7bf364",
+    "company_name": "Morgan Stanley",
+    "title": "2027 Technology Summer Analyst Program (Menlo Park)",
+    "url": "https://morganstanley.tal.net/vx/mobile-0/brand-0/candidate/so/pm/1/pl/1/opp/20958-2027-Technology-Summer-Analyst-Program-Menlo-Park/en-GB",
+    "locations": [
+      "Menlo Park, CA"
+    ],
+    "season": "Summer",
+    "category": "Internship",
+    "opportunity_type": "Summer Analyst Program (Undergrad/Grad; Grad Dec 2027\u2013Jun 2028; 10 Weeks)",
+    "target_year": [
+      "All Students"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1781571254,
+    "date_updated": 1781571254,
+    "source": "Jose-Gael-Cruz-Lopez"
   }
 ]
