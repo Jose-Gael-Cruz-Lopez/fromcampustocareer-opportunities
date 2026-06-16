@@ -6,10 +6,10 @@
 
 ### A community-curated board of opportunities that take students from campus to career.
 
-[![Stars](https://img.shields.io/github/stars/Jose-Gael-Cruz-Lopez/fromcampustocareer-opportunities?style=for-the-badge&color=FFD700&labelColor=000000&cacheSeconds=86400)](https://github.com/Jose-Gael-Cruz-Lopez/fromcampustocareer-opportunities/stargazers)
-[![Last Updated](https://img.shields.io/github/last-commit/Jose-Gael-Cruz-Lopez/fromcampustocareer-opportunities?style=for-the-badge&label=Last%20Updated&color=00C853&labelColor=000000)](https://github.com/Jose-Gael-Cruz-Lopez/fromcampustocareer-opportunities/commits/main)
-[![Contributors](https://img.shields.io/github/contributors/Jose-Gael-Cruz-Lopez/fromcampustocareer-opportunities?style=for-the-badge&color=0091EA&labelColor=000000)](https://github.com/Jose-Gael-Cruz-Lopez/fromcampustocareer-opportunities/graphs/contributors)
-[![Open Issues](https://img.shields.io/github/issues/Jose-Gael-Cruz-Lopez/fromcampustocareer-opportunities?style=for-the-badge&label=Submissions&color=FF6D00&labelColor=000000)](https://github.com/Jose-Gael-Cruz-Lopez/fromcampustocareer-opportunities/issues)
+[![Stars](https://badgen.net/github/stars/Jose-Gael-Cruz-Lopez/fromcampustocareer-opportunities?label=stars&color=FFD700&labelColor=000)](https://github.com/Jose-Gael-Cruz-Lopez/fromcampustocareer-opportunities/stargazers)
+[![Last Updated](https://badgen.net/github/last-commit/Jose-Gael-Cruz-Lopez/fromcampustocareer-opportunities?label=last%20updated&color=00C853&labelColor=000)](https://github.com/Jose-Gael-Cruz-Lopez/fromcampustocareer-opportunities/commits/main)
+[![Contributors](https://badgen.net/github/contributors/Jose-Gael-Cruz-Lopez/fromcampustocareer-opportunities?label=contributors&color=0091EA&labelColor=000)](https://github.com/Jose-Gael-Cruz-Lopez/fromcampustocareer-opportunities/graphs/contributors)
+[![Submissions](https://badgen.net/github/open-issues/Jose-Gael-Cruz-Lopez/fromcampustocareer-opportunities?label=submissions&color=FF6D00&labelColor=000)](https://github.com/Jose-Gael-Cruz-Lopez/fromcampustocareer-opportunities/issues)
 
 </div>
 
