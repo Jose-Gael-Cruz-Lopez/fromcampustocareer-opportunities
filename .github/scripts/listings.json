@@ -271,5 +271,110 @@
     "date_posted": 1781571254,
     "date_updated": 1781571254,
     "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "company_name": "Listen Labs",
+    "title": "Future Founder Program",
+    "url": "https://listenlabs.ai/founder-program",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "season": "Multiple",
+    "category": "Program",
+    "opportunity_type": "Full-Time Engineering Program for Aspiring Founders (Selective; Mentorship from Founders/Investors)",
+    "target_year": [
+      "All Students"
+    ],
+    "sponsorship": "Not Specified",
+    "id": "605bf4bd-9fcc-4b12-a0f0-e0b66163fcf6",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1781886427,
+    "date_updated": 1781886427,
+    "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "company_name": "Duolingo",
+    "title": "2026 Duolingo Tech Intern Meetup",
+    "url": "https://www.gem.com/form?formID=f5855414-84d7-4138-98d0-d7360c70f519",
+    "locations": [
+      "TBD"
+    ],
+    "season": "Multiple",
+    "category": "Other",
+    "opportunity_type": "Networking / Meetup Event (Tech Interns)",
+    "target_year": [
+      "All Students"
+    ],
+    "sponsorship": "Not Specified",
+    "id": "0849e8f1-4784-4260-9573-9673356935f2",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1781886428,
+    "date_updated": 1781886428,
+    "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "company_name": "Management Leadership for Tomorrow (MLT)",
+    "title": "Career Prep 2029 \u2014 Deadline: Jan 15, 2027",
+    "url": "https://mlt.smapply.org/prog/careerprep2029_application/",
+    "locations": [
+      "Virtual & In-Person (Nationwide)"
+    ],
+    "season": "Multiple",
+    "category": "Program",
+    "opportunity_type": "20+ Month Career Development Program (College Sophomores; Grad Fall 2028\u2013Summer 2029; U.S. Citizen/PR; GPA 3.0+)",
+    "target_year": [
+      "Sophomore"
+    ],
+    "sponsorship": "Not Specified",
+    "id": "17e739a5-54a8-45a5-860d-b75e25103a6c",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1781886429,
+    "date_updated": 1781886429,
+    "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "company_name": "Figure",
+    "title": "Embedded Software Intern (Fall 2026)",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4397706006",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "season": "Fall",
+    "category": "Internship",
+    "opportunity_type": "Internship (Undergraduate / Recent Grad; C++, Python, Embedded Systems)",
+    "target_year": [
+      "All Students"
+    ],
+    "sponsorship": "Not Specified",
+    "id": "bc52954c-e8c8-48e0-b4fa-f4d3d81bed48",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1781886430,
+    "date_updated": 1781886430,
+    "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "company_name": "AWS / IOScholarships Foundation",
+    "title": "AWS re/Start Cloud Computing Program (Sep 15\u2013Dec 15, 2026 Cohort)",
+    "url": "https://www.ioscholarships.com/restart/",
+    "locations": [
+      "Virtual (United States)"
+    ],
+    "season": "Fall",
+    "category": "Program",
+    "opportunity_type": "Tuition-Free Full-Time Cloud/IT Training Program (FREE; Ages 18+; HS Diploma; U.S. Work Authorization)",
+    "target_year": [
+      "All Students"
+    ],
+    "sponsorship": "U.S. Work Authorization Required",
+    "id": "22d55888-44a1-4635-a018-7deb3b652bd3",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1781886431,
+    "date_updated": 1781886431,
+    "source": "Jose-Gael-Cruz-Lopez"
   }
 ]
