@@ -460,5 +460,27 @@
     "date_posted": 1782254642,
     "date_updated": 1782254642,
     "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "81e4a3ba-49be-4880-add7-c345bb75faf3",
+    "company_name": "Women in Analytics",
+    "title": "DataConnect Conference 2026 (Oct 29\u201330, 2026)",
+    "url": "https://www.dataconnectconf.com/dataconnect/conference",
+    "locations": [
+      "Lewis Center, OH",
+      "Virtual"
+    ],
+    "season": "Fall",
+    "category": "Other",
+    "opportunity_type": "Data, Analytics & AI Conference (Data Science / ML / AI Professionals; In-Person & Virtual)",
+    "target_year": [
+      "All Students"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1782254642,
+    "date_updated": 1782254642,
+    "source": "Jose-Gael-Cruz-Lopez"
   }
 ]
