@@ -482,5 +482,26 @@
     "date_posted": 1782254642,
     "date_updated": 1782254642,
     "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "0138e2d1-7f46-445d-b681-bf75ce2151ab",
+    "company_name": "Society of Women Engineers (SWE)",
+    "title": "WE26 Annual Conference (Nov 5\u20137, 2026)",
+    "url": "https://we26.swe.org/about/registration-information/",
+    "locations": [
+      "Boston, MA"
+    ],
+    "season": "Fall",
+    "category": "Other",
+    "opportunity_type": "Conference & Career Fair (Women & Allies in Engineering/Tech; Students & Professionals)",
+    "target_year": [
+      "All Students"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1782254642,
+    "date_updated": 1782254642,
+    "source": "Jose-Gael-Cruz-Lopez"
   }
 ]
