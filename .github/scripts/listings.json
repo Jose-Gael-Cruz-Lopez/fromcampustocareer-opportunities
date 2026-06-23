@@ -503,5 +503,27 @@
     "date_posted": 1782254642,
     "date_updated": 1782254642,
     "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "f5e3a808-6249-41d3-a937-a397ef5d33a3",
+    "company_name": "AnitaB.org",
+    "title": "Grace Hopper Celebration 2026 (GHC 26) \u2014 Oct 27\u201330, 2026",
+    "url": "https://ghc.anitab.org/",
+    "locations": [
+      "Anaheim, CA",
+      "Virtual"
+    ],
+    "season": "Fall",
+    "category": "Other",
+    "opportunity_type": "Conference & Career Expo (Women & Nonbinary Technologists; Students, Early-Career & Professionals)",
+    "target_year": [
+      "All Students"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1782254642,
+    "date_updated": 1782254642,
+    "source": "Jose-Gael-Cruz-Lopez"
   }
 ]
