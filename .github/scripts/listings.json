@@ -397,5 +397,26 @@
     "date_posted": 1782254642,
     "date_updated": 1782254642,
     "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "6d1d816c-8739-419d-88a0-e0bef80a1884",
+    "company_name": "Details Pending (Airtable Form)",
+    "title": "Opportunity Application \u2014 Details Pending",
+    "url": "https://airtable.com/appMwIUFvLQJPcF6P/pagthbrQ4IavYOGqK/form",
+    "locations": [
+      "TBD"
+    ],
+    "season": "Multiple",
+    "category": "Other",
+    "opportunity_type": "Details Pending",
+    "target_year": [
+      "All Students"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": false,
+    "date_posted": 1782254642,
+    "date_updated": 1782254642,
+    "source": "Jose-Gael-Cruz-Lopez"
   }
 ]
